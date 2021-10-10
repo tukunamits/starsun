@@ -2,20 +2,7 @@ public class ReverseNumberExample1
 {  
 public static void main(String[] ar
                         
-                        dd
-                        ad
-                        ad
-                        d
-                        d
-                        d
-                        ad
-                        a
-                        dad
-                        DD
-                        ad
-                        A
-                        gs)   
-{  
+                   
 int number = 987654, reverse = 0;  
 while(number != 0)   
 {  
