@@ -1,4 +1,9 @@
-public class ReverseNumberExample1   
+public class ReverseNumberExample1   dsDD
+  D
+  d
+  d
+  d
+ 
 {  
 public static void main(String[] ar
                         
